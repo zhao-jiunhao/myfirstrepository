@@ -1,11 +1,10 @@
 package mathsComputer;
 
-public class duoxs implements khj {
+public class duoxs implements kys {
 
 	@Override
-	public kys hj() {
+	public void hj() {
 		// TODO Auto-generated method stub
-		return null;
 	}
 
 }

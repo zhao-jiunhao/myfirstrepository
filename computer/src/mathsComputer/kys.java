@@ -2,5 +2,5 @@ package mathsComputer;
 
 public interface kys
 {
-	public kys hj();
+	public void hj();
 }

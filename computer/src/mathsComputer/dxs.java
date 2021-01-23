@@ -1,5 +1,5 @@
 package mathsComputer;
 
-public interface dxs extends khj {
+public interface dxs extends kys {
 
 }

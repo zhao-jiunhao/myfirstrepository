@@ -1,10 +1,11 @@
-package mathsComputer;
+package mathsComputer.f;
 
 public class fdxs implements dxs {
 
 	@Override
-	public void hj() {
+	public kys hj() {
 		// TODO Auto-generated method stub
+		return null;
 	}
 
 }

@@ -1,11 +1,10 @@
 package mathsComputer;
 
-public class ecgs extends ddxs implements khj {
+public class ecgs extends ddxs implements kys {
 
 	@Override
-	public kys hj() {
+	public void hj() {
 		// TODO Auto-generated method stub
-		return null;
 	}
 
 }

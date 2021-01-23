@@ -1,6 +1,6 @@
-package mathsComputer;
+package mathsComputer.f;
 
-public class sz extends ddxs implements kys {
+public class sz extends ddxs implements khj {
 	private int n;
 	public sz(int i) {
 		n=i;
@@ -14,14 +14,10 @@ public class sz extends ddxs implements kys {
 		int jg=n*aSz.getInt();
 		return new sz(jg);
 	}
-	public sz toAdd(sz aSz) {
-		int jg=n+aSz.getInt();
-		return new sz(jg);
-	}
-	
 	@Override
-	public void hj() {
+	public kys hj() {
 		// TODO Auto-generated method stub
+		return new sz(n);
 	}
 
 }
